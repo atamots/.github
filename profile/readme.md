@@ -1,7 +1,7 @@
-<p align="center"><a href="https://github.com/atamots" target="_blank"><img src="https://unavatar.io/github/atamots?raw=true" width="250"></a></p>
+<p align="center"><a href="https://github.com/atamots" target="_blank"><img src="https://unavatar.io/github/atamots?raw=true" width="150"></a></p>
 
 <p align="center">
-  <img src="../assets/atamots-greeting.svg" alt="Greeting Message" />
+  <img src="../assets/atamots-greeting.svg" srcset="/atamots/.github/raw/main/assets/atamots-greeting.svg" alt="Greeting Message" />
 </p>
 
 ## About ATAMOTS
